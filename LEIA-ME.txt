@@ -1,0 +1,7 @@
+Opa! Olá!!!
+
+Obrigado por utilizar meu software!
+
+INSTALAÇÃO________________________________
+	
+Basicamente você vai precisar do MySql,versão mais atualizada
